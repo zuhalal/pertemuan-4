@@ -77,8 +77,9 @@
 # # Menggunakan Local Variabel di luar Function
 
 # def secondScopeFunction():
-#     secondVariable = "world"
-#     print(secondVariable)
+    # global secondVariable
+    # secondVariable = "world"
+    # print(secondVariable)
 
 # secondScopeFunction()
 

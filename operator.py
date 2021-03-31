@@ -18,10 +18,10 @@
 
 # 2. Assigning (Memasukkan Nilai)
 # (+=)
-# z += 5
+# z += 5 # z = z + 5
 # print(z)
 # (-=)
-# z -= 5
+# z = 5
 # print(z)
 
 # 3. Comparison (Perbandingan)
@@ -34,20 +34,19 @@
 
 # 4. Logical
 # a. and
-# print(x == z and y > z)
+# print(x == z and y > z) # &&
 # b. or
-# print(x == z or y < z)
+# print(x == z or y < z) # ||
 # c. not
-# print(not(x > y))
-# 
+# print(not(x > y)) # !
+
 # 5. Identity
 # a = x
 # a. is
 # print(x is a)
-# print(x is z)
-# b. is not
+# # b. is not
 # print(x is not z)
-# 
+
 # 6. Membership
 # chessDuel = ['Deddy', 'Irene', 'Dewa_Kipas']
 # a. in

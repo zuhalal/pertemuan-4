@@ -12,7 +12,7 @@
 # floatData = 2.0
 # print(floatData, '=', type(floatData))
 # c. complex
-# complexData = 4j
+# complexData = 4j+1
 # print(complexData, '=', type(complexData))
 
 # 3. Sequence
@@ -27,6 +27,9 @@
 # print(tupleData, '=', type(tupleData))
 # print(tupleData[2])
 # tupleData[0] = 10
+# tupleData = (10, "wow", 80)
+# print(tupleData, '=', type(tupleData))
+
 
 # 4. Mapping
 # a. Dictionary
